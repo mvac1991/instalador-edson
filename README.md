@@ -8,4 +8,3 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 ```bash
 cd && rm -rf instalador-edson && git clone https://github.com/mvac1991/instalador-edson && sudo chmod -R 777 instalador-edson && cd instalador-edson && sudo ./install_instancia
 ```
-
